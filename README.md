@@ -3,3 +3,4 @@ As a result of the experience I have gained at the university and in the sector,
 
 ## Introduction
 - [Computer Science: An Overview, J. Gleen Brookshear](https://www.pearson.com/uk/educators/higher-education-educators/program/Brookshear-Computer-Science-An-Overview-8th-Edition/PGM588798.html)
+- [Problem Solving and Program Design in C](https://www.amazon.com/Problem-Solving-Program-Design-6th/dp/0321535421)
