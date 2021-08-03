@@ -1,6 +1,4 @@
 # Handbooks of a Computer Engineer
-# ---
-# Bir Bilgisayar Mühendisinin El Kitapları
 As a result of the experience I have gained at the university and in the sector, we can list the textbooks / handbooks that a computer engineer will need while learning his / her profession.
 
 ## Introduction
